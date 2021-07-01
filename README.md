@@ -5,6 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+OR
+Run ng serve --ssl --host IP-ADDRESS to run project on mobile device
+
+## HIRO pattern
+The model is displayed in the web application after capturing this marker (https://commons.wikimedia.org/wiki/File:Hiro_marker_ARjs.png).
 
 ## Code scaffolding
 
